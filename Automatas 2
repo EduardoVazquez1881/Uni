@@ -1,0 +1,13 @@
+Lenguajes: c o c++, ensamblador
+
+infijo: operador en medio de las variables (a + b)
+posfijo: operador al final   (ab+)
+
+a + b seria ab+
+a*(b+c) seria bc+a*
+
+Se realizaria en arboles binarios
+
+La jerarquia se da mediante el orden ya que en ensamblador no pueden usarse los infijo
+
+prueba
